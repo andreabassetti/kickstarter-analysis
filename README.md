@@ -14,18 +14,16 @@ I conducted the analysis following the steps outlined in the module and challang
 - `=(((J2/60)/60)/24)+DATE(1970, 1, 1)`
 - `=YEAR()`
 - Conditional Formatting: Graded Color Scale 
- Below you can see an example of how the data looks after applying these changes: 
-IMAGEEEEE
 ### Deliverable 1 
 The goal of this deliverable was to visually show data patters for theater outcomes by launch date. To do this, I practiced creating and using pivot tables to create a line graph. I wanted to show how many campaigns were successful, cancelled, and failed by month of the year. I made sure to apply filters for 'Parent Category = theater' and 'Years = all'. The final pivot table can be seen below: 
-IMAGGEEEE
+![Pivot Table](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Pivot%20Table.png)
 I then followed simple stemps to insert a line graph based on the pivot table. The final line graph can be seen below: 
-IMAGEE
+![Theater_Outcomes_vs_Launch](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Theater_Outcomes_vs_Launch.png)
 ### Deliverable 2
 The goal of this deliverable was to visually show data patters for outcomes for plays based on goals. Instead of creating a pivot table with existing data, i created my own table and inserted functions to find the relevant information. I only used the `=COUNTIFS()`, `=ROUND()`, and division. The final table can be seen below:
-IMAGEEEE
+![Table 2](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Table%202.png)
 I then followed simple steps to insert a line graph based on the table. The final graph can be seen below: 
-IMAGEEE
+![Outcomes_vs_Goals](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Outcomes_vs_Goals.png)
 
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 

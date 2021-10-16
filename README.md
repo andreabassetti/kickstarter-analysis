@@ -5,9 +5,11 @@ From this box plot we can conlude that there are a couple of outliers that are h
 ----------
 # Kickstarting with Excel
 
-## Overview of Project: The purpose of this project is to continue helping Louise draw conclusions from past kickstarter campaigns so that she can make infromed decisions. She is particularly want to understand the success of the campaigns in relation to their launch dates and funding goals. 
+## Overview of Project 
+The purpose of this project is to continue helping Louise draw conclusions from past kickstarter campaigns so that she can make infromed decisions. She is particularly want to understand the success of the campaigns in relation to their launch dates and funding goals. 
 
-## Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+## Analysis and Challenges 
+Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 ### Analysis of Outcomes Based on Launch Date
 

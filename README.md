@@ -1,8 +1,3 @@
-# An Analysis of Kickstarted Campaigns
-## Module 1 practice analysis on kickstarter data to uncover trends for Louise
-![GB Musicals](git hub url)
-From this box plot we can conlude that there are a couple of outliers that are heavily affecting the skew of the data. 
-----------
 # Kickstarting with Excel
 
 ## Overview of Project 
@@ -40,7 +35,8 @@ I can also conclude that all the kickstarter campaigns for plays that have a goa
 I can conclude that kickstarter campaigns for plays are more than 50% failed if the goal falls between these four brackets: 25000 to 29999, 30000 to 34999, 45000 to 49999, and greater than 50000. 
 
 - What are some limitations of this dataset?
-
+Theter outcomes based on launch date only has complete information for 3 years, if you look at the three years separately the graphs look drastcially differet. i would want to see data for more years before making any decisions on my plans. Also, data from prcovid can be tricky because we do not know how the pandemic can change these numbers. i think this is particularly relevant because theater is an industry that has been hit very hard during covid due to the nature of the indoor preformances. you could look at how other similar industries did since there is data on similar ones. 
 
 - What are some other possible tables and/or graphs that we could create?
-Time of campaign 
+The length of the campaign 
+number of backers 

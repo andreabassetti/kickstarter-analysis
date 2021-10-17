@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter Analysis
 
 ## Overview of Project 
 The purpose of this project is to continue helping Louise draw conclusions from past kickstarter campaigns so that she can make informed decisions. She is particularly interested in understanding the success of the campaigns in relation to their launch dates and funding goals. 

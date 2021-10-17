@@ -12,11 +12,13 @@ I conducted the analysis following the steps outlined in the module and challeng
 ### Deliverable 1 - Analysis of Outcomes Based on Launch Date 
 The goal of this deliverable was to visually show data patters for theater outcomes by launch date. To do this, I practiced creating and using pivot tables to create a line graph. I wanted to show how many campaigns were successful, cancelled, and failed by month of the year. I made sure to apply filters for 'Parent Category = theater' and 'Years = all'. The final pivot table can be seen below: 
 ![Pivot Table](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Pivot%20Table.png)
+
 I then followed simple steps to insert a line graph based on the pivot table. The final line graph can be seen below: 
 ![Theater_Outcomes_vs_Launch](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Theater_Outcomes_vs_Launch.png)
 ### Deliverable 2 - Analysis of Outcomes Based on Goals
 The goal of this deliverable was to visually show data patters for outcomes for plays based on goals. Instead of creating a pivot table with existing data, I created my own table and inserted functions to find the relevant information. I only used the `=COUNTIFS()`, `=ROUND()`, and division. The final table can be seen below:
 ![Table 2](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Table%202.png)
+
 I then followed simple steps to insert a line graph based on the table. The final graph can be seen below: 
 ![Outcomes_vs_Goals](https://github.com/andreabassetti/kickstarter-analysis/blob/main/png/Outcomes_vs_Goals.png)
 
@@ -25,15 +27,15 @@ There were two main areas where I encountered issues. The first was pivot tables
 
 ## Results
 
-- What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+- **What are two conclusions you can draw about the Theater Outcomes by Launch Date?**
 I can conclude that May was the month with the most successful number of campaigns. Not only by count but also by percentage since it is one of the two only months that had a success rate higher than 50% (the other month being June). I can also conclude that May, June, July, August and October all have a similar amount of failed campaigns. We also know that there were less total campaigns as the months go by, so we can conclude that from May to October (September being an exception) by the rate of successful campaigns in proportion to total campigns decreases. 
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
 I can conclude that kickstarter campaigns for plays are more than 50% successful if the goal falls between these five brackets: less than 1000, 1000 to 4999, 5000 to 9999, 35000 to 39999, and 40000 to 44999. 
 I can also conclude that all the kickstarter campaigns for plays that have a goal between 45000 and 49999 have a 100% failure rate. 
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
 The data in the Kickstarter sheet only has complete information on kickstarter campaigns in the theater category from 2014-2016.Looking at these three years individually, the data and therefore line graphs, look drastically different. I believe a limitation of this data is that we do not have enough historical data. Additionally, the arts industry has been hit very hard by COVID-19. The ability to have performances is going to impact the likelyhood of campaigns meeting their goals. This impact may be either positive or negative. We do not have recent data that would help Louise make a more informed decisions on how todays events may skew the patters we see in the data. 
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
 I would create two more tables and graphs to help Louise have a full picture of kickstarter campaigns in the past. The first graph I would like to create would represent the length of the campaign vs the outcome. I believe the analysis of this graph could give some important insights into how to structure her campaign. I would also like to create a table to identify the number of backers per campaign, the average donation, and if there are any outliers in each campaign. This may help eliminate any campaign that reached its goal because of individual backers, if Louise does not have pre committed backers these data points should be looked at with a different lens.
